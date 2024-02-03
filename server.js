@@ -6,7 +6,7 @@ const fs = require('fs');
 
 
 const app = express(); // create instance of express
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000; //use provided PORT from host if not use 3001 - this is for Heroku
 
 // Middleware for parsing JSON and urlencoded form data
 app.use(express.json());
