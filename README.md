@@ -6,12 +6,14 @@
 Note Taker is a simple, yet powerful application designed to support users in organizing their thoughts and tasks efficiently. Built with Node.js and Express.js, this application offers a sleek interface to create, save, and manage notes effortlessly.
 
 ## Table of Contents
-
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Deployment](#deployment)
 
+## Screenshot
+<img src="./assets/screenshot.png"/>
 
 ## Installation
 
